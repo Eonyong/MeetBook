@@ -98,4 +98,15 @@ git pull origin develop
 ```
 
 ##### 11. 페이지 레이아웃
--
+<img width="840" alt="스크린샷 2022-02-23 오후 5 20 14" src="https://user-images.githubusercontent.com/42180383/155467577-0d710e80-d0a5-4be8-991a-8c113835b112.png">
+
+<img width="840" alt="스크린샷 2022-02-23 오후 5 20 23" src="https://user-images.githubusercontent.com/42180383/155467639-f7a806b2-a7de-4a4a-85a8-30fef0044725.png">
+
+<img width="840" alt="스크린샷 2022-02-23 오후 5 20 27" src="https://user-images.githubusercontent.com/42180383/155467792-9c2410d0-3d14-4c9b-936f-6b8edc8fdd16.png">
+
+<img width="840" alt="스크린샷 2022-02-23 오후 5 20 44" src="https://user-images.githubusercontent.com/42180383/155467811-1ccef0a5-f7aa-433c-911d-53a67cd6b843.png">
+
+<img width="840" alt="스크린샷 2022-02-23 오후 5 20 50" src="https://user-images.githubusercontent.com/42180383/155467820-3a7c853b-dc61-426f-b700-eb350ca51797.png">
+
+<img width="840" alt="스크린샷 2022-02-23 오후 5 20 58" src="https://user-images.githubusercontent.com/42180383/155467861-6b12a9a4-b318-475e-a91c-5c077e38b7dd.png">
+
